@@ -9,9 +9,8 @@ export default function Home() {
             Métis Family Tree (MFT)
           </h1>
           <p className="text-slate-600 text-sm md:text-base">
-            A private family project to preserve and explore our Métis, Prairie,
-            and Red River roots across the Garnham, Favel, Vivier, Monkman and
-            related family lines.
+            A project to preserve and explore our Métis, Prairie,
+            and Red River roots.
           </p>
         </header>
 
@@ -42,7 +41,7 @@ export default function Home() {
         <section className="space-y-3">
           <h2 className="text-lg font-semibold">Testing the site</h2>
           <p className="text-sm text-slate-700">
-            For now this is just a simple home page running on your computer.
+            For now this is just a simple home page.
             As we build out the app, links like a{" "}
             <span className="font-semibold">people list</span> and individual{" "}
             <span className="font-semibold">family pages</span> will appear
@@ -56,7 +55,7 @@ export default function Home() {
         </section>
 
         <footer className="pt-4 border-t border-slate-200 text-xs text-slate-500">
-          <p>Metis Family Tree · Running locally on this computer</p>
+          <p>Metis Family Tree</p>
         </footer>
       </div>
     </main>
